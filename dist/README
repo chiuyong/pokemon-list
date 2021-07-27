@@ -1,0 +1,38 @@
+# Tech Challenge Pokémon List
+
+### Desafio
+
+O projeto consiste em criar um site onde contempla as seguintes tarefas:
+
+- [x] Listar as gerações de games de Pokémon
+- [x] Listar número de Pokémons por geração
+- [x] Listar os Pokémons de cada geração
+
+## 💻 Pré-requisitos
+
+Antes de começar, foram utilizados os seguintes conceitos e tecnologias:
+* HTML 5
+* CSS 3
+* SASS
+* JAVASCRIPT
+* VUEJS
+* VUEX
+* VUE ROUTES
+* RESTAPI
+* JEST
+* GIT
+* FRAMEWORK QUASAR
+
+## 🚀 Instalando Pokémon List
+
+Para instalar o Pokemon List, siga estas etapas:
+
+1- Git clone https://github.com/chiuyong/pokemon-list.git
+
+## ☕ Usando o Pokemon List
+
+Para usar o Pokemon List, siga estas etapas:
+
+1- Abrir a pasta no Visual Studio Code
+2- Baixar a extensão Live Server do Visual Studio Code
+3- Executar o Live Server
